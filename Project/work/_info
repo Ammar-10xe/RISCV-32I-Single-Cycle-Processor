@@ -1,0 +1,449 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_2021.1/examples
+T_opt
+!s110 1666548677
+Vl][RQdzPWYgkI=NChMGl`0
+04 11 4 work TopLevel_tb fast 0
+=1-3822e2f179b7-635583c5-58-2ff8
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vALU
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1666548667
+!i10b 1
+!s100 12j1YRAjV^>7H=^QYgPP`1
+IA>Z5V=F_U=3F3gzj4J0N01
+S1
+Z4 dC:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project
+w1666532810
+8C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/ALU.sv
+FC:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/ALU.sv
+!i122 119
+L0 1 37
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z7 !s108 1666548667.000000
+!s107 C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/ALU.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/ALU.sv|
+!i113 0
+Z8 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@a@l@u
+vBranchCond
+R2
+R3
+!i10b 1
+!s100 F4D2f>aPKJjoD;8A9hV9j0
+I4E5nNVA1FU]8E<K7EA3[d1
+S1
+R4
+w1666532799
+8C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/BranchCond.sv
+FC:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/BranchCond.sv
+!i122 120
+L0 1 45
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/BranchCond.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/BranchCond.sv|
+!i113 0
+R8
+R1
+n@branch@cond
+vcontroller
+R2
+R3
+!i10b 1
+!s100 @ZOUiT45a`D6=aI_BbCL<3
+I9;G^9LzUH5RQUd9QC1Kb10
+S1
+R4
+w1666533700
+8C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/controller.sv
+FC:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/controller.sv
+!i122 121
+L0 1 167
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/controller.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/controller.sv|
+!i113 0
+R8
+R1
+vData_Memory
+R2
+Z9 !s110 1666548668
+!i10b 1
+!s100 jO80g0l[4JLMnE621YK^C3
+I^F`VR;1GLBdbbgC7hR2970
+S1
+R4
+w1666532839
+8C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/Data_Memory.sv
+FC:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/Data_Memory.sv
+!i122 122
+L0 1 22
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/Data_Memory.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/Data_Memory.sv|
+!i113 0
+R8
+R1
+n@data_@memory
+vimmediate_gen
+R2
+R9
+!i10b 1
+!s100 bKE>LWN@12j?efTU4kMQL2
+Il]<]Mk_R7_[M_Mh<ik2:g1
+S1
+R4
+w1666197539
+8C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/Immediate_Gen.sv
+FC:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/Immediate_Gen.sv
+!i122 123
+L0 1 26
+R5
+R6
+r1
+!s85 0
+31
+Z10 !s108 1666548668.000000
+!s107 C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/Immediate_Gen.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/Immediate_Gen.sv|
+!i113 0
+R8
+R1
+vInstruction_Fetch
+R2
+R9
+!i10b 1
+!s100 W>]`iVGlh6C0Q]m0z7z1:2
+IP??@nQ;e8dPJR0ba?MZXg0
+S1
+R4
+w1665154226
+8C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/instruction fetch.sv
+FC:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/instruction fetch.sv
+!i122 124
+L0 1 11
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/instruction fetch.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/instruction fetch.sv|
+!i113 0
+R8
+R1
+n@instruction_@fetch
+vInstruction_Memory
+R2
+R9
+!i10b 1
+!s100 cM9Yo43jgQOEJeKo5Gz3C0
+I3]P0XiQ9VPeR]Z79Ei7>=2
+S1
+R4
+w1666533017
+8C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/Instruction_Memory.sv
+FC:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/Instruction_Memory.sv
+!i122 125
+Z11 L0 1 13
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/Instruction_Memory.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/Instruction_Memory.sv|
+!i113 0
+R8
+R1
+n@instruction_@memory
+vLoadStore_Unit
+R2
+Z12 !s110 1666548669
+!i10b 1
+!s100 a>HfBa_`fRm_bD0M=TE]=0
+IhEUP7[UaYX@Ye2>E0H9:g0
+S1
+R4
+w1666533087
+8C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/LoadStore_Unit.sv
+FC:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/LoadStore_Unit.sv
+!i122 126
+L0 1 120
+R5
+R6
+r1
+!s85 0
+31
+Z13 !s108 1666548669.000000
+!s107 C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/LoadStore_Unit.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/LoadStore_Unit.sv|
+!i113 0
+R8
+R1
+n@load@store_@unit
+vMux_PC
+R2
+R12
+!i10b 1
+!s100 S^HM5kO4a31[0baDzl[Og3
+ILKICIHoE<R^`Ame91Q_AP0
+S1
+R4
+w1666533140
+8C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/MuxPC.sv
+FC:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/MuxPC.sv
+!i122 129
+Z14 L0 1 14
+R5
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/MuxPC.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/MuxPC.sv|
+!i113 0
+R8
+R1
+n@mux_@p@c
+vmux_selA
+R2
+R12
+!i10b 1
+!s100 S^k:IjLU?_N^URO0>elVG3
+I`0H1f6I;V^Ae`Hdl[UTQT1
+S1
+R4
+w1666533109
+8C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/mux_selA.sv
+FC:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/mux_selA.sv
+!i122 127
+L0 1 12
+R5
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/mux_selA.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/mux_selA.sv|
+!i113 0
+R8
+R1
+nmux_sel@a
+vmux_selB
+R2
+R12
+!i10b 1
+!s100 U]AiX`Njc]fe8^a6^1[o12
+IDVdkoGH_n<5R[gCCRAko]1
+S1
+R4
+w1666458727
+8C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/mux_selB.sv
+FC:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/mux_selB.sv
+!i122 128
+L0 1 15
+R5
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/mux_selB.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/mux_selB.sv|
+!i113 0
+R8
+R1
+nmux_sel@b
+vMuxResult
+R2
+Z15 !s110 1666548670
+!i10b 1
+!s100 d72<ViATQ[bZKVXTT6iJY1
+IfDHk8ONimDMVAPOPBMe522
+S1
+R4
+w1666533162
+8C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/MuxResult.sv
+FC:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/MuxResult.sv
+!i122 130
+R14
+R5
+R6
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/MuxResult.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/MuxResult.sv|
+!i113 0
+R8
+R1
+n@mux@result
+vPCPlus4
+R2
+R15
+!i10b 1
+!s100 @A_FN]hbCY7>o@5SL[]aK1
+IGS;SV;3CW4D4oG9eHdSXG1
+S1
+R4
+w1666533167
+8C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/PCPlus4.sv
+FC:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/PCPlus4.sv
+!i122 131
+L0 1 8
+R5
+R6
+r1
+!s85 0
+31
+Z16 !s108 1666548670.000000
+!s107 C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/PCPlus4.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/PCPlus4.sv|
+!i113 0
+R8
+R1
+n@p@c@plus4
+vprogram_counter
+R2
+R15
+!i10b 1
+!s100 BlmQB;]h1YA=MfMRYoWWR2
+I;Mm8ahHKnUaS0VMIb2haK0
+S1
+R4
+w1666547223
+8C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/program_Counter.sv
+FC:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/program_Counter.sv
+!i122 132
+R11
+R5
+R6
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/program_Counter.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/program_Counter.sv|
+!i113 0
+R8
+R1
+vRegister_file
+R2
+!s110 1666548672
+!i10b 1
+!s100 bO:39:@0_?UKZ2cdJaLDT3
+I>G7h1bU;h0PfEZA7FQQ^12
+S1
+R4
+w1666548644
+8C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/Register_file.sv
+FC:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/Register_file.sv
+!i122 133
+L0 1 27
+R5
+R6
+r1
+!s85 0
+31
+!s108 1666548672.000000
+!s107 C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/Register_file.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/Register_file.sv|
+!i113 0
+R8
+R1
+n@register_file
+vTopLevel
+R2
+Z17 !s110 1666548675
+!i10b 1
+!s100 ZP`mE66[AQO3K`mMi:dl;3
+IV;B_54NnCB3h26CBfBfmT3
+S1
+R4
+w1666533343
+8C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/TopLevel.sv
+FC:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/TopLevel.sv
+!i122 134
+L0 1 28
+R5
+R6
+r1
+!s85 0
+31
+Z18 !s108 1666548675.000000
+!s107 C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/TopLevel.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/TopLevel.sv|
+!i113 0
+R8
+R1
+n@top@level
+vTopLevel_tb
+R2
+R17
+!i10b 1
+!s100 HI_Vb[Y?9NC2F4S=T=UKW3
+IRzzlYHPG@k28dB?KoN77K2
+S1
+R4
+w1666547871
+8C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/TopLevel_tb.sv
+FC:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/TopLevel_tb.sv
+!i122 135
+L0 1 19
+R5
+R6
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/TopLevel_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/TopLevel_tb.sv|
+!i113 0
+R8
+R1
+n@top@level_tb

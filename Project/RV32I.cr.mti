@@ -1,0 +1,121 @@
+{C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/Register_file.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/Register_file.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Register_file
+
+Top level modules:
+	Register_file
+
+} {} {}} {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/LoadStore_Unit.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/LoadStore_Unit.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module LoadStore_Unit
+
+Top level modules:
+	LoadStore_Unit
+
+} {} {}} {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/mux_selA.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/mux_selA.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module mux_selA
+
+Top level modules:
+	mux_selA
+
+} {} {}} {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/program_Counter.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/program_Counter.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module program_counter
+
+Top level modules:
+	program_counter
+
+} {} {}} {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/TopLevel_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/TopLevel_tb.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module TopLevel_tb
+
+Top level modules:
+	TopLevel_tb
+
+} {} {}} {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/TopLevel.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/TopLevel.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module TopLevel
+
+Top level modules:
+	TopLevel
+
+} {} {}} {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/controller.sv} {2 {vlog -work work -vopt -sv -stats=none {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/controller.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module controller
+** Warning: C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/controller.sv(32): (vlog-2182) 'Btype' might be read before written in always_comb or always @* block.
+
+Top level modules:
+	controller
+
+} {} {}} {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/instruction fetch.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/instruction fetch.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Instruction_Fetch
+
+Top level modules:
+	Instruction_Fetch
+
+} {} {}} {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/MuxPC.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/MuxPC.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Mux_PC
+
+Top level modules:
+	Mux_PC
+
+} {} {}} {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/mux_selB.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/mux_selB.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module mux_selB
+
+Top level modules:
+	mux_selB
+
+} {} {}} {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/Immediate_Gen.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/Immediate_Gen.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module immediate_gen
+
+Top level modules:
+	immediate_gen
+
+} {} {}} {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/MuxResult.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/MuxResult.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module MuxResult
+
+Top level modules:
+	MuxResult
+
+} {} {}} {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/ALU.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/ALU.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/BranchCond.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/BranchCond.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module BranchCond
+
+Top level modules:
+	BranchCond
+
+} {} {}} {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/Data_Memory.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/Data_Memory.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Data_Memory
+
+Top level modules:
+	Data_Memory
+
+} {} {}} {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/Instruction_Memory.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/Instruction_Memory.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Instruction_Memory
+
+Top level modules:
+	Instruction_Memory
+
+} {} {}} {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/PCPlus4.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/2019E/OneDrive/Desktop/RV32I Complete/Project/PCPlus4.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module PCPlus4
+
+Top level modules:
+	PCPlus4
+
+} {} {}}
