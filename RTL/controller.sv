@@ -29,7 +29,7 @@ assign funct3       = Inst[14:12];
 
 always_comb
 begin
-    PCsrc = Btype && br_taken;
+    
     case(instr_opcode)
 
         7'b0110011: //R-Type
@@ -112,7 +112,7 @@ begin
             sel_B   = 1'b1;
             sel_A   = 1'bx;
             wb_sel  = 2'b01;
-            Btype    = 1'b0;
+            Btype   = 1'b0;
             ImmSrcD = 3'b100;
             alu_op  = LUI;
         end
@@ -162,6 +162,7 @@ begin
         end
 
     endcase
+    PCsrc = Btype && br_taken;
 end
     
 endmodule

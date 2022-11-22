@@ -18,6 +18,7 @@ parameter HalfWord_Unsigned = 3'b101;
 assign addr                 = ALUResult;
 
 always_comb begin
+    wr = 1;
 	case (instr_opcode)
 	7'b0000011: begin 
 		wr = 1;
