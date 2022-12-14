@@ -36,7 +36,7 @@ always_comb begin
                 default: br_taken = 1'b0;
             endcase
         end
-        7'b1101111 | 7'b1100111: br_taken = 1'b1; //JAL and JALR Type  
+        7'b1101111 , 7'b1100111: br_taken = 1'b1; //JAL and JALR Type  
         default   : br_taken = 1'b0;
     endcase
 end

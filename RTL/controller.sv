@@ -154,7 +154,7 @@ begin
             sel_A   = 1'b1; 
             sel_B   = 1'b1; 
             wb_sel  = 2'b00;
-            ImmSrcD = 3'b011;
+            ImmSrcD = 3'b000;
             alu_op  = ADD;
         end
 

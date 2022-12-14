@@ -42,13 +42,13 @@ logic [31:0] rdata_word;
         case(instr_opcode) 
             7'b0000011: begin //Load
                 case (funct3)
-                    Byte: case( addr[1:0] )
+                    Byte , Byte_Unsigned: case( addr[1:0] )
                             2'b00 : rdata_byte = data_rd [7:0];
                             2'b01 : rdata_byte = data_rd [15:8];     
                             2'b10 : rdata_byte = data_rd [23:16];
                             2'b11 : rdata_byte = data_rd [31:24]; 
                         endcase     
-                    HalfWord: case( addr[1] )
+                    HalfWord , HalfWord_Unsigned: case( addr[1] )
                             1'b0 : rdata_hword = data_rd [15:0];       
                             1'b1 : rdata_hword = data_rd [31:16];
                         endcase
